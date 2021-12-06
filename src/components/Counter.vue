@@ -42,7 +42,7 @@ export default {
 	margin-top: 32px;
 	padding-top: 32px;
 	display: flex;
-	color: red;
+	color: green;
 	font-size: 64px;
 	flex-direction: column;
 	align-items: center;
